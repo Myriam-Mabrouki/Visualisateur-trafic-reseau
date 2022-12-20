@@ -1,0 +1,21 @@
+Prérequis :
+- une version Java supérieure ou égale à 9
+
+----------------------------------------------------------------------------------------------------------------
+Démarche pour lancer le programme :
+
+Sur Linux / MAC :
+1- Se placer dans le répertoire Projet_Reseau
+2- Entrer la commande : java -jar Visualisateur.jar
+
+Sur Windows :
+1- Ouvrir Visualisateur.jar
+
+----------------------------------------------------------------------------------------------------------------
+Démarche pour le visualisateur :
+
+1- Appuyer sur le bouton "Choisir un fichier" pour choisir le fichier .txt contenant la trace
+2- Pour le filtrage, sélectionner l'adresse IP et le protocole voulu puis appuyer sur "Filtrer"
+3- Zoomer si besoin en scrollant (à l'aide d'un tapboard ou d'une souris) tout en restant appuyé sur la touche Ctrl gauche
+4- Pour récupérer le résultat du visualisateur, appuyer sur "Enregistrer sous" et entrer le nom du fichier dans "File Name" suivi de ".txt" 
+5- Réitérer l'opération si besoin
